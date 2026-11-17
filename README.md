@@ -9,6 +9,7 @@ The test relay runs temporarily on the ASUS. A reboot, Tailscale node expiry, or
 Connect to the test tailnet, then run
 
 ```sh
+brew tap aiherd-dev/nebius
 brew install --cask aiherd-dev/nebius/aiherd
 ```
 
