@@ -2,6 +2,8 @@
 
 This tap distributes a signed, notarized macOS app for testing AIHerd with a private relay. The first release uses the disposable leibo-asus Tailscale profile. [Download the public genesis](profiles/leibo-asus.json).
 
+The test relay runs temporarily on the ASUS. A reboot, Tailscale node expiry, or manual stop takes it offline.
+
 ## Install
 
 Connect to the test tailnet, then run
