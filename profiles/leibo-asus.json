@@ -1,0 +1,16 @@
+{
+  "auth": "tailnet",
+  "bootstrap": [
+    "https://leibo-asus-aih-test.tail85b549.ts.net:8443"
+  ],
+  "local_only": false,
+  "name": "nebius-test",
+  "network": {
+    "tailscale": "tail85b549.ts.net"
+  },
+  "push": "off",
+  "relay_keys": [
+    "28c5e98a5965c7129362e7a47263ea9c60d68d2b1d0bedc29d64c465bb2bd2a4"
+  ],
+  "version": 3
+}

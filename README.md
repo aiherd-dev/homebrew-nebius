@@ -1,6 +1,6 @@
 # AIHerd for Nebius
 
-This tap distributes a signed, notarized macOS app for testing AIHerd with a private relay. The first release uses the disposable `leibo-asus` Tailscale profile.
+This tap distributes a signed, notarized macOS app for testing AIHerd with a private relay. The first release uses the disposable leibo-asus Tailscale profile. [Download the public genesis](profiles/leibo-asus.json).
 
 ## Install
 
